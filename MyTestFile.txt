@@ -2,3 +2,5 @@
 Hello World!
 And welcome to
 the Dominatening!
+
+Match begins in 10 seconds!
